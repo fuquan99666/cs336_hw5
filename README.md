@@ -28,3 +28,9 @@ Initially, all tests should fail with `NotImplementedError`s.
 To connect your implementation to the tests, complete the
 functions in [./tests/adapters.py](./tests/adapters.py).
 
+## My implementation
+
+### Notice 
+- I have to recognize that the package 'flash-attn' is so hard to download !
+- And if you don't have nvcc cuda toolkit, you almostly can't download that !
+
