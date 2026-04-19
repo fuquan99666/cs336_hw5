@@ -34,3 +34,6 @@ functions in [./tests/adapters.py](./tests/adapters.py).
 - I have to recognize that the package 'flash-attn' is so hard to download !
 - And if you don't have nvcc cuda toolkit, you almostly can't download that !
 
+### 哎哎
+- 事实证明，千万不要用5090的集群，配环境会非常的痛苦。
+- 由于社团的h100集群天天爆炸，我战略性放弃这个作业。
